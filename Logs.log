@@ -1,0 +1,169 @@
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Web Server has been started"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Successfully Logged in as Priceless Music#9209"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Registering slash commands for 790914432397738015"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: bassboost"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: bump"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: clear"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: config"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: disconnect"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: grab"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: loop"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: loopqueue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: lyrics"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: move"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: nowplaying"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: pause"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: play"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: queue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: remove"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: resume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: search"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: shuffle"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: skip"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: skipto"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: stats"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: volume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: youtube"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 400"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Web Server has been started"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Successfully Logged in as Priceless Music#9209"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Registering slash commands for 790914432397738015"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: bassboost"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: bump"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: clear"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: config"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: disconnect"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: grab"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: loop"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: loopqueue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: lyrics"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: move"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: nowplaying"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: pause"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: play"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: queue"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: remove"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: resume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: search"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: shuffle"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: skip"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: skipto"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: stats"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: volume"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: [Slash Command]: [POST] Guild 790914432397738015, Command: youtube"}
+{"level":"info","message":"21:function getMinutes() { [native code] } - 9:0:2023 | Info: Lavalink: Node Main connected"}
